@@ -1,0 +1,1 @@
+<a href="./user">ĐĂNG KÍ THAM GIA</a> 
